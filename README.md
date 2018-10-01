@@ -11,10 +11,11 @@ A simple, customizable, and reusable Add to Calendar button component for React 
 
 ## Installation
 
-The package can be installed via NPM:
+The package can be installed via NPM or Yarn:
 
 ```
 npm install react-add-to-calendar --save
+yarn add react-add-to-calendar
 ```
 
 You’ll need to install React and Moment separately since they are not included in the package. Below is a simple example on how to use the Add to Calendar button in a React view.
